@@ -1,2 +1,2 @@
 # Cplusplus
-C++ programs
+A collection of different C++ programs
