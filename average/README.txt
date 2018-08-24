@@ -1,0 +1,1 @@
+A C++ program that asks the user for five numbers and then prints out the average of those numbers.
