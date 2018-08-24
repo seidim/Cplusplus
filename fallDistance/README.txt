@@ -1,0 +1,1 @@
+A program that calculates the distance an object falls due to gravity.  Using the formula of d=1/2gt^2, where d is the distance in meters, g is 9.8, and t is the time in seconds that the object has been falling.  The function will return the distance in meters.

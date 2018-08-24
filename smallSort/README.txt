@@ -1,0 +1,1 @@
+A void function named smallSort that takes three int parameters by reference and sorts their values into ascending order, so that the first parameter now has the lowest value, the second parameter the middle value, and the third parameter has the highest value.

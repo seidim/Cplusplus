@@ -1,0 +1,1 @@
+a void function named smallSort2 that takes as parameters the addresses of three int variables and sorts the ints at those addresses into ascending order.

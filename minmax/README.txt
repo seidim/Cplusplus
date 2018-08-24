@@ -1,0 +1,1 @@
+A a program that asks the user how many integers they would like to enter.  You can assume they will enter a number >= 1.  The program will then prompt the user to enter that many integers.  After all the numbers have been entered, the program should display the largest and smallest of those numbers. 

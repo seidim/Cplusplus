@@ -1,0 +1,1 @@
+A program that asks the user for the name of a file and then tries to open it.  If the input file is there and can be opened, the program should read the list of integers in the file.  The program will then add togehter all the integers in the file, open an output file called sum.txt, and write the sum to the file.
